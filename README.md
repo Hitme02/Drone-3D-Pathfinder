@@ -82,3 +82,11 @@ streamlit run app.py
 - Plotly for powerful 3D visualization  
 - Streamlit for interactive Python UI  
 - Classic CS algorithms: A*, TSP, Knapsack
+
+svjnsvjlnsv
+janvljanv
+kjnvljanv
+fjknbvlakkb
+jnvlanba
+ljfnblkanb
+ajnbklkba
